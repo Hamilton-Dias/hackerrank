@@ -10,4 +10,5 @@ List with current solved challenges.
     <li>Plus Minus</li>
     <li>Mini-Max Sum</li>
     <li>Time Conversion</li>
+    <li>Breaking the Records</li>
 </ul>
