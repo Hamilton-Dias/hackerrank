@@ -11,4 +11,5 @@ List with current solved challenges.
     <li>Mini-Max Sum</li>
     <li>Time Conversion</li>
     <li>Breaking the Records</li>
+    <li>Camel Case 4</li>
 </ul>
