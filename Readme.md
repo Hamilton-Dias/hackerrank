@@ -14,4 +14,5 @@ List with current solved challenges.
     <li>Camel Case 4</li>
     <li>Divisible Sum Pairs</li>
     <li>Sparse Arrays</li>
+    <li><strong>Find the Median</strong></li>
 </ul>
