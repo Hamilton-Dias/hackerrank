@@ -12,4 +12,6 @@ List with current solved challenges.
     <li>Time Conversion</li>
     <li>Breaking the Records</li>
     <li>Camel Case 4</li>
+    <li>Divisible Sum Pairs</li>
+    <li>Sparse Arrays</li>
 </ul>
