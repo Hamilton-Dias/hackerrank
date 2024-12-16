@@ -16,3 +16,9 @@ List with current solved challenges.
     <li>Sparse Arrays</li>
     <li><strong>Find the Median</strong></li>
 </ul>
+
+#### Week two
+<ul>
+    <li>Lonely Integer</li>
+    <li>Grading Students</li>
+</ul>
