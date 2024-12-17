@@ -21,4 +21,6 @@ List with current solved challenges.
 <ul>
     <li>Lonely Integer</li>
     <li>Grading Students</li>
+    <li>Flipping bits</li>
+    <li>Diagonal Difference</li>
 </ul>
