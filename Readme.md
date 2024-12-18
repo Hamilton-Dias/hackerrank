@@ -23,4 +23,5 @@ List with current solved challenges.
     <li>Grading Students</li>
     <li>Flipping bits</li>
     <li>Diagonal Difference</li>
+    <li>Counting Sort 1</li>
 </ul>
