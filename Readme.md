@@ -24,4 +24,5 @@ List with current solved challenges.
     <li>Flipping bits</li>
     <li>Diagonal Difference</li>
     <li>Counting Sort 1</li>
+    <li>Counting Valleys</li>
 </ul>
