@@ -25,4 +25,5 @@ List with current solved challenges.
     <li>Diagonal Difference</li>
     <li>Counting Sort 1</li>
     <li>Counting Valleys</li>
+    <li>Pangrams</li>
 </ul>
