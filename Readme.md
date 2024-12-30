@@ -26,4 +26,5 @@ List with current solved challenges.
     <li>Counting Sort 1</li>
     <li>Counting Valleys</li>
     <li>Pangrams</li>
+    <li>Mars Exploration</li>
 </ul>
