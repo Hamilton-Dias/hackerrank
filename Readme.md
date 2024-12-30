@@ -40,4 +40,5 @@ List with current solved challenges.
     <li>Maximum Perimeter Triangle</li>
     <li>Zig Zag Sequence</li>
     <li>Drawing Book</li>
+    <li><strong>Between Two Sets</strong></li>
 </ul>
