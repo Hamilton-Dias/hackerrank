@@ -36,4 +36,5 @@ List with current solved challenges.
     <li>Subarray Division 2</li>
     <li>XOR Strings 3</li>
     <li>Sales by Match</li>
+    <li>Migratory Birds</li>
 </ul>
