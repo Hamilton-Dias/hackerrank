@@ -27,4 +27,5 @@ List with current solved challenges.
     <li>Counting Valleys</li>
     <li>Pangrams</li>
     <li>Mars Exploration</li>
+    <li><strong>Flipping the Matrix</strong></li>
 </ul>
