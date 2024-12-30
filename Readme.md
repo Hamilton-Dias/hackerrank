@@ -29,3 +29,8 @@ List with current solved challenges.
     <li>Mars Exploration</li>
     <li><strong>Flipping the Matrix</strong></li>
 </ul>
+
+#### Week three
+<ul>
+    <li>Permuting Two Arrays</li>
+</ul>
