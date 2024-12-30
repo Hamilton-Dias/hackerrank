@@ -38,4 +38,5 @@ List with current solved challenges.
     <li>Sales by Match</li>
     <li>Migratory Birds</li>
     <li>Maximum Perimeter Triangle</li>
+    <li>Zig Zag Sequence</li>
 </ul>
