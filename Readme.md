@@ -34,4 +34,5 @@ List with current solved challenges.
 <ul>
     <li>Permuting Two Arrays</li>
     <li>Subarray Division 2</li>
+    <li>XOR Strings 3</li>
 </ul>
