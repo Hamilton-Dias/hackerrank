@@ -39,4 +39,5 @@ List with current solved challenges.
     <li>Migratory Birds</li>
     <li>Maximum Perimeter Triangle</li>
     <li>Zig Zag Sequence</li>
+    <li>Drawing Book</li>
 </ul>
