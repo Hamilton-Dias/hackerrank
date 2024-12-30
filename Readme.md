@@ -37,4 +37,5 @@ List with current solved challenges.
     <li>XOR Strings 3</li>
     <li>Sales by Match</li>
     <li>Migratory Birds</li>
+    <li>Maximum Perimeter Triangle</li>
 </ul>
