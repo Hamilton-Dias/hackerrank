@@ -46,4 +46,5 @@ List with current solved challenges.
 #### Week four
 <ul>
     <li>Picking Numbers</li>
+    <li>Left Rotation</li>
 </ul>
