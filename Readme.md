@@ -47,4 +47,5 @@ List with current solved challenges.
 <ul>
     <li>Picking Numbers</li>
     <li>Left Rotation</li>
+    <li>Number Line Jumps</li>
 </ul>
