@@ -42,3 +42,8 @@ List with current solved challenges.
     <li>Drawing Book</li>
     <li><strong>Between Two Sets</strong></li>
 </ul>
+
+#### Week four
+<ul>
+    <li>Picking Numbers</li>
+</ul>
