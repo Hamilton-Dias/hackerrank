@@ -48,4 +48,5 @@ List with current solved challenges.
     <li>Picking Numbers</li>
     <li>Left Rotation</li>
     <li>Number Line Jumps</li>
+    <li>Separate the Numbers</li>
 </ul>
