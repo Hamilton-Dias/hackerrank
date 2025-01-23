@@ -50,4 +50,5 @@ List with current solved challenges.
     <li>Number Line Jumps</li>
     <li>Separate the Numbers</li>
     <li>Closest Numbers</li>
+    <li>Tower Breakers</li>
 </ul>
