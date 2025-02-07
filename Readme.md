@@ -51,4 +51,5 @@ List with current solved challenges.
     <li>Separate the Numbers</li>
     <li>Closest Numbers</li>
     <li>Tower Breakers</li>
+    <li>Minimum Absolute Difference in an Array</li>
 </ul>
